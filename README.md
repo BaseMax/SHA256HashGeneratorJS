@@ -1,5 +1,7 @@
 # SHA256 Hash Generator JS
 
+## Javascript
+
 A repository for a tool allows you to generate the SHA256 hash of any string using Javascript.
 
 ## Similar online service
