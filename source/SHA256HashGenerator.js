@@ -1,6 +1,15 @@
-// https://github.com/BaseMax/SHA256HashGeneratorJS
+/**
+ *
+ * @Name : SHA256HashGenerator.js
+ * @Version : 1.0
+ * @Programmer : Max
+ * @Date : 2019-08-25
+ * @Released under : https://github.com/BaseMax/SHA256HashGeneratorJS/blob/master/LICENSE
+ * @Repository : https://github.com/BaseMax/SHA256HashGeneratorJS
+ *
+ **/
 /*
- * SHA-256 implementation in JavaScript
+ * SHA-256 implementation in JavaScript / Chris Veness 2002-2014 / MIT Licence
 */
 'use strict';
 var Sha256 = {};
