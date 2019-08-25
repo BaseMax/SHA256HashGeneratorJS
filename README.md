@@ -4,7 +4,11 @@
 
 A repository for a tool allows you to generate the SHA256 hash of any string using Javascript.
 
-## Similar online service
+### Used At
+
+- https://github.com/BaseMax/direct2internet
+
+### Similar online service
 
 - https://approsto.com/sha-generator/
 - https://passwordsgenerator.net/sha256-hash-generator/
