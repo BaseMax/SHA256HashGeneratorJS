@@ -6,7 +6,7 @@ A repository for a tool allows you to generate the SHA256 hash of any string usi
 
 ### Used At
 
-- https://github.com/BaseMax/direct2internet
+- https://github.com/BaseMax/Direct2InternetPayment
 
 ### Similar online service
 
